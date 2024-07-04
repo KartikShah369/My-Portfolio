@@ -35,13 +35,15 @@ body {
 }
 
 .navbar {
-  background: #fff;
+  background: #092228;
   width: 100%;
+  /* color: white; */
   position: fixed;
   padding: 18px 0;
   z-index: 999;
   transition: all 0.3s ease;
 }
+
 .navbar .max-width {
   display: flex;
   align-items: center;
@@ -67,7 +69,7 @@ body {
   display: inline-block;
 }
 .navbar .menu li a {
-  color: #000;
+  color: #ffffff;
   font-size: 19px;
   font-weight: 600;
   margin-left: 25px;
@@ -187,7 +189,7 @@ body {
   .menu-btn {
     display: block;
     z-index: 999;
-    color: #000;
+    color: #32fcff;
   }
   .menu-btn i.active::before {
     content: "\f00d";
