@@ -289,7 +289,7 @@ section {
   box-shadow: 2px 2px 20px;
 }
 .about .about-content .left img:hover {
-  transform: scaleX(1.5);
+  transform: scale(1.1);
 }
 .about .about-content .right {
   width: 55%;
